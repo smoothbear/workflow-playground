@@ -1,5 +1,7 @@
 ![banner](assets/banner.png)
-# Contents
+## Workflow Playground
+
+## Contents
 * [Introduction](#Introduction)
 * Playground list
 * Issue
