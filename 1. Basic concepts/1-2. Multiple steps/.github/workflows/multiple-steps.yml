@@ -1,0 +1,15 @@
+name: Multiple Steps
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  multiple:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Hello World
+        run: echo "Hello World"
+
+      - name: Print Workflow
+        run: echo "Workflow!"
